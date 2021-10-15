@@ -11,5 +11,5 @@ Authors
 
 - Isa
 - Oscar
-- Oscar
+- Oscar Nievas
 - Alex Restoy
