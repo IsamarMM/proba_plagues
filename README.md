@@ -12,4 +12,4 @@ Authors
 - Isa
 - Oscar
 - Oscar
-- Alex
+- Alex Restoy
