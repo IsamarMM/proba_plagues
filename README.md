@@ -10,6 +10,6 @@ flutter run lib/arabic.dart
 Authors
 
 - Isa
-- Oscar
+- Oscar Lasierra
 - Oscar Nievas
 - Alex Restoy
