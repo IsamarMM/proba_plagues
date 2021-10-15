@@ -6,3 +6,10 @@ flutter run
 ```
 flutter run lib/arabic.dart
 ```
+
+Authors
+
+- Isa
+- Oscar
+- Oscar
+- Alex
