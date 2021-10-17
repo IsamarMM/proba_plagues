@@ -7,9 +7,10 @@ flutter run
 flutter run lib/arabic.dart
 ```
 
-Authors
+Autors Projecte:
 
 - Isamar Morte
 - Oscar Lasierra
 - Oscar Nievas
 - Alex Restoy
+
