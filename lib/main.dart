@@ -6,13 +6,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Welcome to Flutter',
+      title: 'PAE',
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Benvinguts al projecte de PAE'),
         ),
         body: const Center(
-          child: Text('App plagues'),
+          child: Text('App DETECCIÓ I RESOLUCIÓ DE PLAGUES'),
         ),
       ),
     );
