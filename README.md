@@ -9,7 +9,7 @@ flutter run lib/arabic.dart
 
 Authors
 
-- Isa
+- Isamar Morte
 - Oscar Lasierra
 - Oscar Nievas
 - Alex Restoy
